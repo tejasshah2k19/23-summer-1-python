@@ -1,0 +1,153 @@
+
+
+
+
+python -> programming language 
+
+programming language ?? 
+	
+	communicate with computer ->
+			computer will do your task->
+				computer task -> 
+	instruction -> job perform 
+
+ 
+
+c lang. 
+
+
+printf("hi") --> yes , print hi , header , encrypted binary first , 
+		it will only understand binary 
+  		we have to convert into binary -> print 
+
+
+
+
+instruction -> print printf hi bye -> english -> 
+
+computer -> language? 
+		0 1 -> binary 
+
+
+
+developer -> binary ? english ? 
+
+eng --> computer -> binary ? 
+Translator -> 
+		compiler   
+		interpreter 
+		assembler 
+
+ 
+compiler vs interpreter ? 
+
+	whole at once 
+	line by line 
+
+	speed ? 
+	efficie? 
+
+-------------------------------------------------------
+c -> turbo compiler -> TC
+	BC 
+	GCC -> linux   
+
+
+python -> interpreter --> exact error 
+-------------------------------------------------------
+
+Guido Van Rossum -> abc -> Math ->
+	new lang? 1980 -> 1989->
+	1991 -> python -> 1.0 
+
+
+python -> math -> DL ML AI -> 
+
+
+open source , higher level language , interpreted 
+oop -> object oriented progr.  SETL 
+
+
+python 2 -> less code , high producticity 
+python 3 -> 
+----------------------------------------
+python 3 -> google -> python2 copy legacy code ->
+ 
+
+tools ? 
+	1) python - 
+	2) text editor -> code | vscode | notepad 
+
+--------------------------------------------------
+.c 
+.cpp
+.python 
+.pt
+.py 
+
+ less code ? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+     	

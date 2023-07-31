@@ -89,6 +89,43 @@ tools ?
 
 
 
+input() -> this function is used to read data from console 
+		-> it will read string by default 
+
+
+int() -> to convert data from string to int 
+
+
+
+
+#take two numbers from user print addition of it 
+
+
+#take number from user -> print -> even or odd 
+
+
+
+
+
+
+data type -> 
+
+a = 10 
+
+
+scanf()
+cin>>
+
+take name from user -> scan -> input() 
+
+scanf -> cin -> input() 
+
+print("hi") => end=\n 
+
+print("hi",end="\n") 
+
+print("hi",end="")
+print("bye")
 
 
 
@@ -98,15 +135,28 @@ tools ?
 
 
 
+ask two numbers 
+20
+10
+
+1 For addition
+2 For subtraction
+3 For Div
+4 For Mul 
+Enter Your choice 
+
+switch case ? no 
 
 
+else if ladder -> 
+if 
+else if 
+else if 
+else if 
+else 
 
 
-
-
-
-
-
+switch -> else if ladder -> 
 
 
 

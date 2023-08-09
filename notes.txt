@@ -227,6 +227,14 @@ ABCDE
 4) combine 3rd and 4th 
 
 
+#while 
+# reverse number 
+# sum of digit -> 123 {1+2+3} {6}
+     # 254 {11} {2+5+4}
+# find out the max digit from number 
+#   2596 => 9 
+#   1452 => 5 
+ 
 
 
 

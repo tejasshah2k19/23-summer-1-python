@@ -234,7 +234,32 @@ ABCDE
 # find out the max digit from number 
 #   2596 => 9 
 #   1452 => 5 
- 
+
+
+-----------------------------------------
+String -> 
+c c++ java 
+x = 'd'  -> character 
+x = "d"  -> String 
+
+python -> single quote / double quote => same 
+
+x = 'j' -> string 
+x = "j" -> string 
+
+
+name = "royal" 
+name = 'royal' 
+
+comment -> 
+	single line # 
+	multi line  """    """    '''      '''
+
+1) take string from user and count vowels 
+2) take string from user and count total capital letters 
+	
+
+
 
 
 

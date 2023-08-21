@@ -259,6 +259,91 @@ comment ->
 2) take string from user and count total capital letters 
 	
 
+1) take password from user and print 
+		strong -> if it contains 
+						1 capital
+						1 lower 
+						1 digit 
+						>= 8 in length 
+		normal -> if it contains 
+						>= 8 in length
+						any of two from {1 lower, 1 upper, 1 digit }
+		weak -> if it is < 8 length 
+				  
+		weak -> it contains only lower or only upper or only digit 
+
+
+str.lower() => 
+
+
+------------------------------------------------------------------------------
+function -> 
+
+	problem -> 
+		calculator -> 	
+				add:
+					XXX 
+				sub:
+					XXX 
+				mul:
+					XXX 
+				div: 
+					XXX 
+
+function -> block name -> which contains n number of instruction 
+							which contains set of instruction
+							you need to call your function 
+						 	reuse 
+define => 
+add() 
+	a = 10
+	b = 20 
+	ans = a + b 
+	print ans 
+
+call => 
+add();
+add();
+add();
+
+---------------------------------------------------------
+
+create one file calc_def.py 
+which contains all the calculator function 
+	add 
+	sub 
+	mul
+	sqr 
+create 1 more file consumer.py , this file call all the 
+calculator functions based on user's choice 
+	1 add 
+	2 sub
+	3 mul 
+	4 sqr 
+------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

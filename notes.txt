@@ -321,17 +321,39 @@ calculator functions based on user's choice
 	3 mul 
 	4 sqr 
 ------------------------------------------------------
+2 -> sum 
+5 -> sum
+15 -> sum 
+
+
+int a[5]; //4[ ]  4[ ] 4[ ] 4[ ] 4[ ] => 20 byte 
+
+2 element => 8
+3 element => 12 
+
+
+7 element => limit 5 
 
 
 
+list => 
+
+dynamic -> add : grow , remove : shrink 
+			     increase        decrease 
+				 allocate 	     release 
 
 
+how to declare 
+
+list = []
+names = []
+numbers=[] 
+
+colors = ['red','blue','green',250,'yellow',20.25]
 
 
-
-
-
-
+print(colors)
+print(colors[0])
 
 
 

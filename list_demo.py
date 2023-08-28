@@ -37,3 +37,7 @@ for n in list:
     sum = sum + n 
 
 print("total sum => ",sum)
+
+#take n numbers from user and find out max from it 
+#take n numbers frrom user and search number from n numbers 
+

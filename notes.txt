@@ -355,6 +355,39 @@ colors = ['red','blue','green',250,'yellow',20.25]
 print(colors)
 print(colors[0])
 
+-------------------------------------------------------------
+
+tuple => tuple is used to store multiple items 
+		 tuple is unchangeable : constant 
+		 tuple => ( )  
+
+--------------------------------------------------------
+
+set -> we can store multiple items 
+	   set will not allow duplicate data
+	   set is fixed for item ,	 you can add new item you can remove 
+		{1,2,3,4} => set 
+
+
+--------------------------------------------------------
+
+1) take 3 numbers from user store into list , now read list and add odd numbers from that list into oddSet 
+			and even numbers into evenSet 
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

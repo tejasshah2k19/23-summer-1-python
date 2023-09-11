@@ -371,9 +371,104 @@ set -> we can store multiple items
 
 --------------------------------------------------------
 
-1) take 3 numbers from user store into list , now read list and add odd numbers from that list into oddSet 
+1) take 3 numbers from user store into list , now read list and add odd numbers from that list
+			into oddSet 
 			and even numbers into evenSet 
-			
+
+
+--------------------------------------------------------
+
+
+user = {
+	"firstName":"rock",
+	"email":"rock@www.com",
+	"age":55
+}
+
+-------------------------------------------------------
+
+1. Add new contact 
+2. List all contacts 
+3. Search Contact By Name 
+4. Delete Contact By Name
+5. exit 
+
+1. Add new Contact 
+
+name : jay 
+num  : 8596548596
+
+
+2. List all contacts 
+
+Name 	Numbers 
+Jay 	8596548596
+XXX     XXXXXXX 
+XXX     XXXXXX 
+
+
+3. Search contact by name 
+enter name for search : 
+jay 
+
+Name  Numbers
+jay   XXXXX 
+jay   XXXXX 
+JayMa XXXX 
+
+No Contact Found 
+
+
+4. Delete Contact By Name [ multiple present]
+enter name for search : 
+jay 
+
+Name  Numbers
+jay   XXXXX 
+jay   XXXXX 
+JayMa XXXX 
+
+We got multiple Jay Please Enter Number 
+num : XXXXXX 
+
+
+4. Delete Contact By Name [ single name present ]
+enter name for search : 
+jack 
+
+jack removed from list 
+
+
+
+4. Delete Contact By Name [ single name present ]
+enter name for search : 
+royal 
+
+Sorry No data found 
+
+
+
+
+
+----------
+add contact 
+dictionary list 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

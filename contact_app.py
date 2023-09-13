@@ -41,8 +41,6 @@ while True:
         for c in contacts:
             print(c.get("name"),"    ",c.get("contactNum"))#Ram 
 
-    elif choice == 3:
-        pass
     elif choice == 4:
         print("Enter name for search")#ram
         search = input() #ram 
@@ -50,6 +48,19 @@ while True:
             if c.get("name").lower().startswith(search.lower()) :
                 print(c.get("name"),"    ",c.get("contactNum"))#Ram 
 
+    elif choice == 3:
+        i=0
+        found = False 
+        print("Enter name for search")#ram
+        search = input() #ram 
+        for c in contacts:
+            if c.get("name").lower() ==  search.lower()  :
+                print(c.get("name"),"    ",c.get("contactNum"))#Ram 
+                found = True 
+                break
+            i=i+1 
+        if found == True:
+            contacts.pop(i)
     elif choice == 0:
         exit(0)
     else:
